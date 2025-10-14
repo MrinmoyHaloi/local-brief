@@ -1,0 +1,261 @@
+{
+    "current": {
+        "coord": { "lon": 91.7539, "lat": 26.1806 },
+        "weather": [{ "id": 701, "main": "Mist", "description": "mist", "icon": "50n" }],
+        "base": "stations",
+        "main": {
+            "temp": 28.97,
+            "feels_like": 35.97,
+            "temp_min": 28.97,
+            "temp_max": 28.97,
+            "pressure": 1011,
+            "humidity": 94,
+            "sea_level": 1011,
+            "grnd_level": 997
+        },
+        "visibility": 3000,
+        "wind": { "speed": 1.54, "deg": 150 },
+        "clouds": { "all": 40 },
+        "dt": 1760372138,
+        "sys": {
+            "type": 1,
+            "id": 9117,
+            "country": "IN",
+            "sunrise": 1760313041,
+            "sunset": 1760354851
+        },
+        "timezone": 19800,
+        "id": 1271476,
+        "name": "Guwahati",
+        "cod": 200
+    },
+    "hourly": {
+        "cod": "200",
+        "message": 0,
+        "cnt": 40,
+        "list": [
+            {
+                "dt": 1760378400,
+                "main": {
+                    "temp": 27.21,
+                    "feels_like": 31.58,
+                    "temp_min": 23.69,
+                    "temp_max": 27.21,
+                    "pressure": 1011,
+                    "sea_level": 1011,
+                    "grnd_level": 997,
+                    "humidity": 92,
+                    "temp_kf": 3.52
+                },
+                "weather": [
+                    {
+                        "id": 802,
+                        "main": "Clouds",
+                        "description": "scattered clouds",
+                        "icon": "03n"
+                    }
+                ],
+                "clouds": { "all": 27 },
+                "wind": { "speed": 0.87, "deg": 202, "gust": 0.91 },
+                "visibility": 10000,
+                "pop": 0,
+                "sys": { "pod": "n" },
+                "dt_txt": "2025-10-13 18:00:00"
+            },
+            {
+                "dt": 1760389200,
+                "main": {
+                    "temp": 25,
+                    "feels_like": 25.93,
+                    "temp_min": 23.01,
+                    "temp_max": 25,
+                    "pressure": 1010,
+                    "sea_level": 1010,
+                    "grnd_level": 996,
+                    "humidity": 91,
+                    "temp_kf": 1.99
+                },
+                "weather": [
+                    { "id": 801, "main": "Clouds", "description": "few clouds", "icon": "02n" }
+                ],
+                "clouds": { "all": 13 },
+                "wind": { "speed": 0.91, "deg": 159, "gust": 0.87 },
+                "visibility": 10000,
+                "pop": 0,
+                "sys": { "pod": "n" },
+                "dt_txt": "2025-10-13 21:00:00"
+            },
+            {
+                "dt": 1760400000,
+                "main": {
+                    "temp": 22.4,
+                    "feels_like": 23.1,
+                    "temp_min": 22.4,
+                    "temp_max": 22.4,
+                    "pressure": 1010,
+                    "sea_level": 1010,
+                    "grnd_level": 997,
+                    "humidity": 92,
+                    "temp_kf": 0
+                },
+                "weather": [
+                    { "id": 800, "main": "Clear", "description": "clear sky", "icon": "01d" }
+                ],
+                "clouds": { "all": 0 },
+                "wind": { "speed": 1.04, "deg": 96, "gust": 1.05 },
+                "visibility": 10000,
+                "pop": 0,
+                "sys": { "pod": "d" },
+                "dt_txt": "2025-10-14 00:00:00"
+            },
+            {
+                "dt": 1760410800,
+                "main": {
+                    "temp": 27.68,
+                    "feels_like": 30.54,
+                    "temp_min": 27.68,
+                    "temp_max": 27.68,
+                    "pressure": 1012,
+                    "sea_level": 1012,
+                    "grnd_level": 999,
+                    "humidity": 74,
+                    "temp_kf": 0
+                },
+                "weather": [
+                    { "id": 800, "main": "Clear", "description": "clear sky", "icon": "01d" }
+                ],
+                "clouds": { "all": 0 },
+                "wind": { "speed": 2.25, "deg": 69, "gust": 3.28 },
+                "visibility": 10000,
+                "pop": 0,
+                "sys": { "pod": "d" },
+                "dt_txt": "2025-10-14 03:00:00"
+            },
+            {
+                "dt": 1760421600,
+                "main": {
+                    "temp": 31.47,
+                    "feels_like": 35.33,
+                    "temp_min": 31.47,
+                    "temp_max": 31.47,
+                    "pressure": 1009,
+                    "sea_level": 1009,
+                    "grnd_level": 996,
+                    "humidity": 58,
+                    "temp_kf": 0
+                },
+                "weather": [
+                    { "id": 800, "main": "Clear", "description": "clear sky", "icon": "01d" }
+                ],
+                "clouds": { "all": 4 },
+                "wind": { "speed": 2.72, "deg": 57, "gust": 3.48 },
+                "visibility": 10000,
+                "pop": 0,
+                "sys": { "pod": "d" },
+                "dt_txt": "2025-10-14 06:00:00"
+            },
+            {
+                "dt": 1760432400,
+                "main": {
+                    "temp": 31.68,
+                    "feels_like": 35.51,
+                    "temp_min": 31.68,
+                    "temp_max": 31.68,
+                    "pressure": 1006,
+                    "sea_level": 1006,
+                    "grnd_level": 993,
+                    "humidity": 57,
+                    "temp_kf": 0
+                },
+                "weather": [
+                    { "id": 800, "main": "Clear", "description": "clear sky", "icon": "01d" }
+                ],
+                "clouds": { "all": 0 },
+                "wind": { "speed": 2.85, "deg": 36, "gust": 2.6 },
+                "visibility": 10000,
+                "pop": 0,
+                "sys": { "pod": "d" },
+                "dt_txt": "2025-10-14 09:00:00"
+            }
+        ],
+        "city": {
+            "id": 1271476,
+            "name": "Guwahati",
+            "coord": { "lat": 26.1806, "lon": 91.7539 },
+            "country": "IN",
+            "population": 899094,
+            "timezone": 19800,
+            "sunrise": 1760313041,
+            "sunset": 1760354851
+        }
+    },
+    "posts": {
+        "items": [
+            {
+                "title": "Enforcement and Awareness Lag as Women Ride Without Helmets in Guwahati - G Plus News",
+                "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOa3FIa2QyTHRxZE5FWlhib0FSTGdyV3V4OXFSUy1qR09CSC1tYWxzeFNDNWd0VllFQzdFTHNuRmg4cmFKNTdFTGV0QmZmOVZtR1paLTlBOFMzUGl6LVZJd0NPcWIzcFRfaE5NWXNoME9QU04xZlFGcmFYTDM3UDVDRTNsZUtMekc1SDliRmtsYXFDLWlTVHJwVl9XQjdUMDlJb2c?oc=5",
+                "pubDate": "Sat, 11 Oct 2025 10:32:38 GMT",
+                "source": "G Plus News",
+                "content": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOa3FIa2QyTHRxZE5FWlhib0FSTGdyV3V4OXFSUy1qR09CSC1tYWxzeFNDNWd0VllFQzdFTHNuRmg4cmFKNTdFTGV0QmZmOVZtR1paLTlBOFMzUGl6LVZJd0NPcWIzcFRfaE5NWXNoME9QU04xZlFGcmFYTDM3UDVDRTNsZUtMekc1SDliRmtsYXFDLWlTVHJwVl9XQjdUMDlJb2c?oc=5\" target=\"_blank\">Enforcement and Awareness Lag as Women Ride Without Helmets in Guwahati</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">G Plus News</font>",
+                "contentSnippet": "Enforcement and Awareness Lag as Women Ride Without Helmets in Guwahati  G Plus News",
+                "guid": "CBMiogFBVV95cUxOa3FIa2QyTHRxZE5FWlhib0FSTGdyV3V4OXFSUy1qR09CSC1tYWxzeFNDNWd0VllFQzdFTHNuRmg4cmFKNTdFTGV0QmZmOVZtR1paLTlBOFMzUGl6LVZJd0NPcWIzcFRfaE5NWXNoME9QU04xZlFGcmFYTDM3UDVDRTNsZUtMekc1SDliRmtsYXFDLWlTVHJwVl9XQjdUMDlJb2c",
+                "isoDate": "2025-10-11T10:32:38.000Z"
+            },
+            {
+                "title": "Guwhati: Three held with 294 bottles of illicit cough syrup - The Sentinel - of this Land, for its People",
+                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcWpKVlNodnhkdmFTQkkyeGI4Z3dYaFBMTzFmeVpjZk1NMjZ1M1YzV0s4ZzNORnRPNjJYTTR5UnFtSTBoV0NvYl9UTTZnR1U3V05PbDNUeFlrN1Q2Y1Z4OFpMTWxSWGt4UzBBd3h1Y0NzRG5sdkJnN2VXekhuZmlwUVRkbUpjQTdWR1FPMnEydUVHOTVjT29WcHF1OGptazJYSVU5UWgxaFU0WmNLUVHSAbsBQVVfeXFMT1U2VUdBQXhuZWp5TUpzNThCU0dkNGN4Yk5KWWM0d0p2al9uQ3JIbmVpYlNGcUR0WVBTUUtYLWlJQW5GWEpvLU1MMkhmV3FoYmliMVFBU0JxQy16bmNMdF9GQkNya3JsQ1VrallYai1UaThsRWZOdlpuclhndm02TXp2R1Rtcm9aWTE4Vy1jaThqRnJTQUtGV19ZZU0xbG1SX2lqMHFjRGU4ZWNMUVBqTVJ6cFFNSWVueTJ5MA?oc=5",
+                "pubDate": "Wed, 08 Oct 2025 04:59:16 GMT",
+                "source": "The Sentinel - of this Land, for its People",
+                "content": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPcWpKVlNodnhkdmFTQkkyeGI4Z3dYaFBMTzFmeVpjZk1NMjZ1M1YzV0s4ZzNORnRPNjJYTTR5UnFtSTBoV0NvYl9UTTZnR1U3V05PbDNUeFlrN1Q2Y1Z4OFpMTWxSWGt4UzBBd3h1Y0NzRG5sdkJnN2VXekhuZmlwUVRkbUpjQTdWR1FPMnEydUVHOTVjT29WcHF1OGptazJYSVU5UWgxaFU0WmNLUVHSAbsBQVVfeXFMT1U2VUdBQXhuZWp5TUpzNThCU0dkNGN4Yk5KWWM0d0p2al9uQ3JIbmVpYlNGcUR0WVBTUUtYLWlJQW5GWEpvLU1MMkhmV3FoYmliMVFBU0JxQy16bmNMdF9GQkNya3JsQ1VrallYai1UaThsRWZOdlpuclhndm02TXp2R1Rtcm9aWTE4Vy1jaThqRnJTQUtGV19ZZU0xbG1SX2lqMHFjRGU4ZWNMUVBqTVJ6cFFNSWVueTJ5MA?oc=5\" target=\"_blank\">Guwhati: Three held with 294 bottles of illicit cough syrup</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Sentinel - of this Land, for its People</font>",
+                "contentSnippet": "Guwhati: Three held with 294 bottles of illicit cough syrup  The Sentinel - of this Land, for its People",
+                "guid": "CBMirgFBVV95cUxPcWpKVlNodnhkdmFTQkkyeGI4Z3dYaFBMTzFmeVpjZk1NMjZ1M1YzV0s4ZzNORnRPNjJYTTR5UnFtSTBoV0NvYl9UTTZnR1U3V05PbDNUeFlrN1Q2Y1Z4OFpMTWxSWGt4UzBBd3h1Y0NzRG5sdkJnN2VXekhuZmlwUVRkbUpjQTdWR1FPMnEydUVHOTVjT29WcHF1OGptazJYSVU5UWgxaFU0WmNLUVHSAbsBQVVfeXFMT1U2VUdBQXhuZWp5TUpzNThCU0dkNGN4Yk5KWWM0d0p2al9uQ3JIbmVpYlNGcUR0WVBTUUtYLWlJQW5GWEpvLU1MMkhmV3FoYmliMVFBU0JxQy16bmNMdF9GQkNya3JsQ1VrallYai1UaThsRWZOdlpuclhndm02TXp2R1Rtcm9aWTE4Vy1jaThqRnJTQUtGV19ZZU0xbG1SX2lqMHFjRGU4ZWNMUVBqTVJ6cFFNSWVueTJ5MA",
+                "isoDate": "2025-10-08T04:59:16.000Z"
+            },
+            {
+                "title": "Increase in student suicides linked to mental health issues: GMCH expert - The Assam Tribune",
+                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMXIxbmlnYXZVV0VBVUpuNWhoUnFtaGM3NlFsdTdIbS1BTVJ4VjZQNGpUQlNBeVlKMEs0dkRkS1JuQUIxVV9YZmgxRTNJSmNmSTVhcHdsSVEycUpXX0ZfQUQxaVhsVnpsdU9OMWNzN0RyNVhWTDVHNVRhX040c0NBQ1dpTF9nM2JjQUoyZXJ2NUtPSl9fN0x2Ui1nQUVKdE9lRVFqODVqN3JVcmExSG5r0gG0AUFVX3lxTE5oYktEWUVTNzNNVVI1MlVjNFJkMGdHQzhLekZXU05SQm40MkpPVmJkRUFVeGFHRmJkNmxCNkVOWk1MOU5HQ2RwQ3BQYlBxV1lEdnhQcGlXNDhnR3pYOHpEeEJ5SEF4WElqaU5EZ0sydlhWVjdSTjNfak9ZWWRueVFYVGhCZGxxOTY0YWpoMU8tNVNDd0NoRkJVRS1vVnBlQWxmMDRNcDJLUlQ4VG4weWdQNFk2SA?oc=5",
+                "pubDate": "Fri, 10 Oct 2025 06:34:35 GMT",
+                "source": "The Assam Tribune",
+                "content": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNMXIxbmlnYXZVV0VBVUpuNWhoUnFtaGM3NlFsdTdIbS1BTVJ4VjZQNGpUQlNBeVlKMEs0dkRkS1JuQUIxVV9YZmgxRTNJSmNmSTVhcHdsSVEycUpXX0ZfQUQxaVhsVnpsdU9OMWNzN0RyNVhWTDVHNVRhX040c0NBQ1dpTF9nM2JjQUoyZXJ2NUtPSl9fN0x2Ui1nQUVKdE9lRVFqODVqN3JVcmExSG5r0gG0AUFVX3lxTE5oYktEWUVTNzNNVVI1MlVjNFJkMGdHQzhLekZXU05SQm40MkpPVmJkRUFVeGFHRmJkNmxCNkVOWk1MOU5HQ2RwQ3BQYlBxV1lEdnhQcGlXNDhnR3pYOHpEeEJ5SEF4WElqaU5EZ0sydlhWVjdSTjNfak9ZWWRueVFYVGhCZGxxOTY0YWpoMU8tNVNDd0NoRkJVRS1vVnBlQWxmMDRNcDJLUlQ4VG4weWdQNFk2SA?oc=5\" target=\"_blank\">Increase in student suicides linked to mental health issues: GMCH expert</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Assam Tribune</font>",
+                "contentSnippet": "Increase in student suicides linked to mental health issues: GMCH expert  The Assam Tribune",
+                "guid": "CBMirwFBVV95cUxNMXIxbmlnYXZVV0VBVUpuNWhoUnFtaGM3NlFsdTdIbS1BTVJ4VjZQNGpUQlNBeVlKMEs0dkRkS1JuQUIxVV9YZmgxRTNJSmNmSTVhcHdsSVEycUpXX0ZfQUQxaVhsVnpsdU9OMWNzN0RyNVhWTDVHNVRhX040c0NBQ1dpTF9nM2JjQUoyZXJ2NUtPSl9fN0x2Ui1nQUVKdE9lRVFqODVqN3JVcmExSG5r0gG0AUFVX3lxTE5oYktEWUVTNzNNVVI1MlVjNFJkMGdHQzhLekZXU05SQm40MkpPVmJkRUFVeGFHRmJkNmxCNkVOWk1MOU5HQ2RwQ3BQYlBxV1lEdnhQcGlXNDhnR3pYOHpEeEJ5SEF4WElqaU5EZ0sydlhWVjdSTjNfak9ZWWRueVFYVGhCZGxxOTY0YWpoMU8tNVNDd0NoRkJVRS1vVnBlQWxmMDRNcDJLUlQ4VG4weWdQNFk2SA",
+                "isoDate": "2025-10-10T06:34:35.000Z"
+            },
+            {
+                "title": "Assam youth to highlight wetland threat at world stage - The Times of India",
+                "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOEdqU2tibGZRR2hZNlNKakdERFdpWk10dDVMUGJNVy1JbEx1YktiOFlSSlBidW56WllCd1NIeDBCTHJ6NTlwNFJzam96Zjlyd1cta0lwVWlJdDg3LWdqakRWRk9VT01CT1haT2c2bll1YmphUUoySEowamhvSmRCbEJ0WmlEWTZHRXZlMGFTQ3h5V3VlcWJGRExTTG5wbHV3VUZGUWVHUWEwUVBON29Wb0I2R0hhdVJ4U1pEb3o5YW5COXBzY1lfUFVn0gHPAUFVX3lxTFAxVnliMlFuTy1kZG9ha1ByMGk3ZTYxTjduTW8xcE05V1FQSTA1Nk5hRzlDdlBlbUdiclVvRF91X0Z1QXdWS2FYZTJSM3ZiQ3Z2VnBCUm1NZEYyczFrQkFKQzR4aFJKTnIxVFA0TVg2Y3IwRzhYVmlHZmprUWp6emxQSXdTenZZQ1d6TFlXVTBEczgycWlBSklYdXlhOE0xajZwOFBRVUxVYmdqNmsyaDMyRVlTZEdhTUZ5cFZUTlIxRjhDRnVyR0VUNXRlYkFndw?oc=5",
+                "pubDate": "Tue, 07 Oct 2025 18:05:00 GMT",
+                "source": "The Times of India",
+                "content": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNOEdqU2tibGZRR2hZNlNKakdERFdpWk10dDVMUGJNVy1JbEx1YktiOFlSSlBidW56WllCd1NIeDBCTHJ6NTlwNFJzam96Zjlyd1cta0lwVWlJdDg3LWdqakRWRk9VT01CT1haT2c2bll1YmphUUoySEowamhvSmRCbEJ0WmlEWTZHRXZlMGFTQ3h5V3VlcWJGRExTTG5wbHV3VUZGUWVHUWEwUVBON29Wb0I2R0hhdVJ4U1pEb3o5YW5COXBzY1lfUFVn0gHPAUFVX3lxTFAxVnliMlFuTy1kZG9ha1ByMGk3ZTYxTjduTW8xcE05V1FQSTA1Nk5hRzlDdlBlbUdiclVvRF91X0Z1QXdWS2FYZTJSM3ZiQ3Z2VnBCUm1NZEYyczFrQkFKQzR4aFJKTnIxVFA0TVg2Y3IwRzhYVmlHZmprUWp6emxQSXdTenZZQ1d6TFlXVTBEczgycWlBSklYdXlhOE0xajZwOFBRVUxVYmdqNmsyaDMyRVlTZEdhTUZ5cFZUTlIxRjhDRnVyR0VUNXRlYkFndw?oc=5\" target=\"_blank\">Assam youth to highlight wetland threat at world stage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+                "contentSnippet": "Assam youth to highlight wetland threat at world stage  The Times of India",
+                "guid": "CBMiygFBVV95cUxNOEdqU2tibGZRR2hZNlNKakdERFdpWk10dDVMUGJNVy1JbEx1YktiOFlSSlBidW56WllCd1NIeDBCTHJ6NTlwNFJzam96Zjlyd1cta0lwVWlJdDg3LWdqakRWRk9VT01CT1haT2c2bll1YmphUUoySEowamhvSmRCbEJ0WmlEWTZHRXZlMGFTQ3h5V3VlcWJGRExTTG5wbHV3VUZGUWVHUWEwUVBON29Wb0I2R0hhdVJ4U1pEb3o5YW5COXBzY1lfUFVn0gHPAUFVX3lxTFAxVnliMlFuTy1kZG9ha1ByMGk3ZTYxTjduTW8xcE05V1FQSTA1Nk5hRzlDdlBlbUdiclVvRF91X0Z1QXdWS2FYZTJSM3ZiQ3Z2VnBCUm1NZEYyczFrQkFKQzR4aFJKTnIxVFA0TVg2Y3IwRzhYVmlHZmprUWp6emxQSXdTenZZQ1d6TFlXVTBEczgycWlBSklYdXlhOE0xajZwOFBRVUxVYmdqNmsyaDMyRVlTZEdhTUZ5cFZUTlIxRjhDRnVyR0VUNXRlYkFndw",
+                "isoDate": "2025-10-07T18:05:00.000Z"
+            },
+            {
+                "title": "Informal Vehicle Recovery Networks Blur Legal Lines in Guwahati - G Plus News",
+                "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNDY3eEZVcGFuSVhTem9nb2pwbnRqWElxQzA2WUcxWlVIQTNiUmRiWVhqX0xIYktfNFUxLWh5cmxqUTVBTDNqYTV5X2kzdkFYWHZBUGd5cFBYZ1l1X2JtOUpBbDk3R2lHRGFBSGU2YUxCeW5jQWJQSjczTTQxcXNYWnlrWk4wVXFNOHhtTGh2elBtUQ?oc=5",
+                "pubDate": "Sat, 11 Oct 2025 10:31:28 GMT",
+                "source": "G Plus News",
+                "content": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNNDY3eEZVcGFuSVhTem9nb2pwbnRqWElxQzA2WUcxWlVIQTNiUmRiWVhqX0xIYktfNFUxLWh5cmxqUTVBTDNqYTV5X2kzdkFYWHZBUGd5cFBYZ1l1X2JtOUpBbDk3R2lHRGFBSGU2YUxCeW5jQWJQSjczTTQxcXNYWnlrWk4wVXFNOHhtTGh2elBtUQ?oc=5\" target=\"_blank\">Informal Vehicle Recovery Networks Blur Legal Lines in Guwahati</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">G Plus News</font>",
+                "contentSnippet": "Informal Vehicle Recovery Networks Blur Legal Lines in Guwahati  G Plus News",
+                "guid": "CBMikgFBVV95cUxNNDY3eEZVcGFuSVhTem9nb2pwbnRqWElxQzA2WUcxWlVIQTNiUmRiWVhqX0xIYktfNFUxLWh5cmxqUTVBTDNqYTV5X2kzdkFYWHZBUGd5cFBYZ1l1X2JtOUpBbDk3R2lHRGFBSGU2YUxCeW5jQWJQSjczTTQxcXNYWnlrWk4wVXFNOHhtTGh2elBtUQ",
+                "isoDate": "2025-10-11T10:31:28.000Z"
+            }
+        ],
+        "image": {
+            "link": "https://news.google.com/",
+            "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w256",
+            "title": "Google News",
+            "width": "256",
+            "height": "256"
+        },
+        "title": "Guwahati - Latest - Google News",
+        "description": "Google News",
+        "webMaster": "news-webmaster@google.com",
+        "generator": "NFE/5.0",
+        "link": "https://news.google.com/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNRE5tZUdaNUVnSmxiaWdBUAE?hl=en-IN&gl=IN&ceid=IN:en",
+        "language": "en-IN",
+        "copyright": "Copyright © 2025 Google. All rights reserved. This XML feed is made available solely for the purpose of rendering Google News results within a personal feed reader for personal, non-commercial use. Any other use of the feed is expressly prohibited. By accessing this feed or using these results in any manner whatsoever, you agree to be bound by the foregoing restrictions.",
+        "lastBuildDate": "Mon, 13 Oct 2025 16:19:26 GMT"
+    }
+}

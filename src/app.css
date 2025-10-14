@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100..900&display=swap');
+@import 'tailwindcss';
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    height: 100%;
+    color: #1f1f1f;
+}
+
+img {
+    max-width: 100%;
+    /* Ensures images scale down within their containers */
+    height: auto;
+    /* Maintains aspect ratio when scaling */
+    display: block;
+    /* Removes extra space below images (inline-block behavior) */
+}
+
+/* Custom Scrollbar Styles */
+::-webkit-scrollbar {
+    width: 0.5em;
+    height: 0.5em;
+}
+
+::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #aaa;
+    border-radius: 6px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #999;
+}
