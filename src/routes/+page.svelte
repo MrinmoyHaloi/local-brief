@@ -308,8 +308,8 @@
             grid-template-areas:
                 'time'
                 'weather'
-                'news'
                 'summary'
+                'news'
                 'air';
             grid-template-columns: 1fr;
             grid-template-rows: repeat(5, minmax(0, auto));
@@ -318,6 +318,9 @@
             }
             & .module.news {
                 height: 30rem;
+            }
+            & .module.summary {
+                height: 20rem;
             }
             & .module.air {
                 p {
