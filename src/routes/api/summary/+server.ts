@@ -28,8 +28,9 @@ export const POST: RequestHandler = async ({ request }) => {
         const stream = new ReadableStream({
             async start(controller) {
                 for await (const chunk of result) {
+                    const enc = new TextEncoder();
                     const chunkText = chunk.text;
-                    controller.enqueue(chunkText);
+                    controller.enqueue(enc.encode(chunkText));
                 }
                 controller.close();
             }
