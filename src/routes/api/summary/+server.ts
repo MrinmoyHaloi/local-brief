@@ -38,7 +38,8 @@ export const POST: RequestHandler = async ({ request }) => {
 
         return new Response(stream, {
             headers: {
-                'Content-Type': 'text/plain'
+                'Content-Type': 'text/plain',
+                'Cache-Control': 'no-cache; no-transform'
             }
         });
     } catch (e) {
